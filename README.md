@@ -1,9 +1,3 @@
-О, вот это уровень!
-Лови фирменный README.md для **AKUMA Credential Extractor** в том же духе.
-В стиле “неоновых теней пентеста” и с чётким описанием для github.
-
----
-
 ````markdown
 AKUMA CREDENTIAL EXTRACTOR - 悪魔のクレデンシャル解剖刀
 
