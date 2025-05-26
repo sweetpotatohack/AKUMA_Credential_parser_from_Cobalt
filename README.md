@@ -45,8 +45,6 @@ python3 credentials.py
 Экспортируй credentials в TSV:
 **Cobalt Strike → Credentials → Export → TSV (.tsv)**
 
-Переименуй файл в `credentials_hash.tsv` или укажи своё имя в скрипте.
-
 ## 2. Пробуждение демона
 
 ```bash
